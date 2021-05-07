@@ -1,0 +1,3 @@
+Nama Perangkat : Cisco Router 1, Lokasi : Gedung C
+Nama Perangkat : Cisco Router 2, Lokasi : Gedung A
+Nama Perangkat : Cicso Router 3, Lokasi : Gedung B
